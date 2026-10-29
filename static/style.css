@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    padding: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #253126;
+    background: linear-gradient(135deg, #fff4df, #ffffff 48%, #e6f5e9);
+}
+
+.anthem-card {
+    width: min(100%, 760px);
+    padding: 38px 28px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.94);
+    border: 1px solid #e1e8df;
+    border-radius: 18px;
+    box-shadow: 0 14px 38px rgba(32, 66, 42, 0.12);
+}
+
+.eyebrow {
+    margin: 0 0 10px;
+    color: #d97706;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+}
+
+h1 {
+    margin: 0;
+    color: #176b45;
+    font-size: clamp(2rem, 6vw, 3.4rem);
+}
+
+.subtitle {
+    margin: 10px 0 28px;
+    color: #68756b;
+}
+
+.lyrics p {
+    margin: 11px 0;
+    line-height: 1.5;
+    font-size: 1.05rem;
+}
+
+.lyrics p:nth-child(2),
+.lyrics p:nth-child(5),
+.lyrics p:nth-child(8),
+.lyrics p:nth-child(11) {
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 30px;
+    padding-top: 18px;
+    border-top: 1px solid #e7ece6;
+    color: #788278;
+    font-size: 0.85rem;
+}
+
+@media (max-width: 480px) {
+    .anthem-card {
+        padding: 28px 18px;
+    }
+
+    .lyrics p {
+        font-size: 0.98rem;
+    }
+}
