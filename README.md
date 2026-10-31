@@ -110,7 +110,7 @@ The following exercises were practised as part of the workshop.
 Cloned the remote GitHub repository to the local system.
 
 ```bash
-git clone <git clone https://github.com/manasamt2006-beep/national-anthem-app.git>
+git clone <git clone https://github.com/manasamahadi2006/national-anthem-app.git>
 ```
 
 ### 8.2 Branch Creation
