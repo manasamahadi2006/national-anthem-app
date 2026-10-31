@@ -207,7 +207,7 @@ Through this workshop, the following concepts were practised:
 
 GitHub Repository:
 
-https://github.com/manasamt2006-beep/national-anthem-app
+https://github.com/manasamt2006/national-anthem-app
 
 ---
 
