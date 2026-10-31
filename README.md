@@ -64,7 +64,7 @@ national-anthem-app/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/manasamt2006-beep/national-anthem-app.git
+git clone https://github.com/manasamahadi2006/national-anthem-app.git
 ```
 
 ### Step 2: Navigate to the project folder
@@ -207,7 +207,7 @@ Through this workshop, the following concepts were practised:
 
 GitHub Repository:
 
-https://github.com/manasamt2006/national-anthem-app
+https://github.com/manasamahadi2006/national-anthem-app
 
 ---
 
